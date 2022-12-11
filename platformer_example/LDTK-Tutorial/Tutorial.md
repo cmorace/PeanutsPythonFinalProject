@@ -5,16 +5,16 @@ LDTK Tutorial
 make sure the pixel size matches the tile size in the imported tilemap
 ![](img/tilemap.png)
 
-2. Add Layer
+2. Add layer and draw tiles for level
 
-3. Draw Tiles
-
-4. Make Entities
+3. Make Entities
  - make sure entity size is same as tile size
  - Enable "Resizeable" for width and height
 ![](img/entity.png)
 
-5. Create new layer for entities and draw entities in layer
+4. Create new layer for entities and draw entities in layer
 
-6. Change project settings to export level as single png
+5. Change project settings to export level as single png
 ![](img/settings.png)
+
+6. Save project to export level .png image

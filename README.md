@@ -40,3 +40,6 @@ Eric: platformer
 
 A cat that will jump and find something to eat
 
+will use ldtk to design level
+need entities for ground
+
