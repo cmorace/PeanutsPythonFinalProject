@@ -40,6 +40,6 @@ Eric: platformer
 
 A cat that will jump and find something to eat
 
-will use ldtk to design level
-need entities for ground
+will use ldtk to design level need entities for ground
+Angel's Project: [https://github.com/Angel961103/python_class/tree/main/Season4/final](https://github.com/Angel961103/python_class/tree/main/Season4/final)
 
